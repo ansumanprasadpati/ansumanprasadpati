@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ansumanprasadpati
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Pyhton SDET with REST API testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in java
+- 🌱 I’m currently learning Java Selenium and REST API testing
+- 💞️ I’m looking to collaborate on selenium
+- 📫 you can reach me on LInkedIn.
 
 <!---
 ansumanprasadpati/ansumanprasadpati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
